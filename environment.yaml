@@ -1,0 +1,21 @@
+channels:
+  - conda-forge
+dependencies:
+  - netifaces
+  - openssl
+  - paramiko
+  - pip
+  - pip:
+    - posttroll==1.11.0
+    - trollmoves==0.15.2
+  - pyyaml
+  - pyzmq
+  - requests
+  - s3fs
+  - scp
+  - setuptools
+  - trollsift
+  - watchdog
+  - yaml
+  - zeromq
+  - zlib
