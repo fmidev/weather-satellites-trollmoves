@@ -6,7 +6,7 @@ dependencies:
   - paramiko
   - pip
   - pip:
-    - posttroll==1.11.0
+    - posttroll==1.12.1
     - trollmoves==0.15.2
   - python=3.12
   - pyyaml
