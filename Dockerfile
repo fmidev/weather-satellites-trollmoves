@@ -19,8 +19,6 @@ RUN mkdir /opt/conda && \
     micromamba install -y -f /tmp/environment.yaml && \
     rm /tmp/environment.yaml && \
     pip cache purge && \
-    # Remove git with all its dependencies
-    micromamba remove -y git && \
     # Remove pip, leave dependencies intact
     micromamba remove --force -y pip && \
     # Clean all mamba caches, inluding packages
