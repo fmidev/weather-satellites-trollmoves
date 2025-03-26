@@ -13,7 +13,7 @@ dependencies:
   - pyyaml
   - pyzmq
   - requests
-  - s3fs
+  - s3fs>=2025.3.0
   - scp
   - setuptools
   - trollsift==0.5.3
