@@ -9,7 +9,7 @@ dependencies:
   - pip:
     - posttroll==1.12.1
     - trollmoves==0.16.0
-  - python=3.12
+  - python=3.13
   - pyyaml
   - pyzmq
   - requests
