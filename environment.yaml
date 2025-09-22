@@ -16,7 +16,7 @@ dependencies:
   - s3fs>=2025.3.0
   - scp
   - setuptools
-  - trollsift==0.5.3
+  - trollsift==0.6.0
   - watchdog
   - yaml
   - zeromq
