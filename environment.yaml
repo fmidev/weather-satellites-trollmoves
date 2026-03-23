@@ -7,13 +7,13 @@ dependencies:
   - paramiko
   - pip
   - pip:
-    - posttroll==1.13.1
-    - trollmoves==0.17.0
+    - posttroll==1.14.0
+    - trollmoves==0.18.0
   - python=3.13
   - pyyaml
   - pyzmq
   - requests
-  - s3fs>=2025.12.0
+  - s3fs>=2026.2.0
   - scp
   - setuptools
   - trollsift==1.0.0
